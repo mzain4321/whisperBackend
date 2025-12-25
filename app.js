@@ -19,8 +19,8 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:3001',
   'http://localhost:5000',
-  'https://your-app-name.up.railway.app', 
-  'https://your-vercel-app.vercel.app'
+  'https://whisper-backend-eight.vercel.app', 
+  'https://whisper-dusky-one.vercel.app'
 ];
 
 const corsOptions = {
