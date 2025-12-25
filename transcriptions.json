@@ -1,0 +1,76 @@
+{
+  "1766685823022-recording_2025-12-25.wav": {
+    "transcription": " Hello, what are you doing? Tell me more to yourself.",
+    "originalName": "recording_2025-12-25.wav",
+    "uploadedAt": "2025-12-25T18:04:16.180Z",
+    "size": 74678
+  },
+  "1766685862992-recording_2025-12-25.wav": {
+    "transcription": " Hello, what are you doing? Tell me more to yourself.",
+    "originalName": "recording_2025-12-25.wav",
+    "uploadedAt": "2025-12-25T18:04:42.927Z",
+    "size": 74678
+  },
+  "live_1766686246315": {
+    "id": "live_1766686246315",
+    "text": "hello what are you doing",
+    "textFile": "live_transcription_2025-12-25T18-10-46.txt",
+    "audioFile": "1766686246234-sid7kg.webm",
+    "audioDetails": {
+      "originalName": "live_transcription_2025-12-25T18-10-46.webm",
+      "savedName": "1766686246234-sid7kg.webm",
+      "size": 108449,
+      "mimetype": "audio/webm",
+      "path": "D:\\intern\\whisper-backend\\uploads\\1766686246234-sid7kg.webm"
+    },
+    "hasAudio": true,
+    "fileType": "webm",
+    "savedAt": "2025-12-25T18:10:46.316Z",
+    "type": "live_transcription"
+  },
+  "live_transcription_2025-12-25T18-10-46.txt": "live_1766686246315",
+  "1766686246234-sid7kg.webm": "live_1766686246315",
+  "1766686547998-test01_20s.wav": {
+    "transcription": " Dancing in the masquerade, idle truth and plain sight jaded, pop, roll, click, shot, who will I be today or not? But such a tide as moving seems asleep, too full for sound and foam, when that witch drew from out the boundless deep turns again home, twilight and evening bell and after that.",
+    "originalName": "test01_20s.wav",
+    "uploadedAt": "2025-12-25T18:16:27.621Z",
+    "size": 384044
+  },
+  "1766686618097-test01_20s.wav": {
+    "transcription": " Dancing in the masquerade, idle truth and plain sight jaded, pop, roll, click, shot, who will I be today or not? But such a tide as moving seems asleep, too full for sound and foam, when that witch drew from out the boundless deep turns again home, twilight and evening bell and after that.",
+    "originalName": "test01_20s.wav",
+    "uploadedAt": "2025-12-25T18:17:22.673Z",
+    "size": 384044
+  },
+  "1766686685540-recording_2025-12-25.wav": {
+    "transcription": "Hello, what are you doing?",
+    "originalName": "recording_2025-12-25.wav",
+    "uploadedAt": "2025-12-25T18:18:20.643Z",
+    "size": 167414
+  },
+  "1766686708402-recording_2025-12-25.wav": {
+    "transcription": "Hello, what are you doing?",
+    "originalName": "recording_2025-12-25.wav",
+    "uploadedAt": "2025-12-25T18:18:43.901Z",
+    "size": 167414
+  },
+  "live_1766686742059": {
+    "id": "live_1766686742059",
+    "text": "my name is an Imran  Zain Imran",
+    "textFile": "live_transcription_2025-12-25T18-19-01.txt",
+    "audioFile": "1766686742027-9hws2.webm",
+    "audioDetails": {
+      "originalName": "live_transcription_2025-12-25T18-19-01.webm",
+      "savedName": "1766686742027-9hws2.webm",
+      "size": 171303,
+      "mimetype": "audio/webm",
+      "path": "D:\\intern\\whisper-backend\\uploads\\1766686742027-9hws2.webm"
+    },
+    "hasAudio": true,
+    "fileType": "webm",
+    "savedAt": "2025-12-25T18:19:02.059Z",
+    "type": "live_transcription"
+  },
+  "live_transcription_2025-12-25T18-19-01.txt": "live_1766686742059",
+  "1766686742027-9hws2.webm": "live_1766686742059"
+}
