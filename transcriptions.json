@@ -72,5 +72,17 @@
     "type": "live_transcription"
   },
   "live_transcription_2025-12-25T18-19-01.txt": "live_1766686742059",
-  "1766686742027-9hws2.webm": "live_1766686742059"
+  "1766686742027-9hws2.webm": "live_1766686742059",
+  "1766691533404-test01_20s.wav": {
+    "transcription": "Dancing in the masquerade, idle truth and plain sight jaded, pop, roll, click, shot, who will I be today or not? But such a tide as moving seems asleep too full for sound and foam, when that which drew from out the boundless deep turns again home twilight and evening bell and after that.",
+    "originalName": "test01_20s.wav",
+    "uploadedAt": "2025-12-25T19:39:30.005Z",
+    "size": 384044
+  },
+  "1766691711264-test01_20s.wav": {
+    "transcription": "Dancing in the masquerade, idle truth and plain sight jaded, pop, roll, click, shot, who will I be today or not? But such a tide as moving seems asleep too full for sound and foam, when that which drew from out the boundless deep turns again home twilight and evening bell and after that.",
+    "originalName": "test01_20s.wav",
+    "uploadedAt": "2025-12-25T19:42:16.958Z",
+    "size": 384044
+  }
 }

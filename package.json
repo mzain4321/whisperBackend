@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Voice-to-Text Backend API with Express",
   "type": "module",
-  "main": "src/app.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",

@@ -19,7 +19,7 @@ const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:3001',
   'http://localhost:5000',
-  'whisperbackend-production-8f33.up.railway.app', 
+  'https://whisperbackend-production-8f33.up.railway.app', 
   'https://whisper-dusky-one.vercel.app'
 ];
 
